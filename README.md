@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python · C++ · JavaScript  
-**ML/AI:** Scikit-learn · Pandas · NumPy · Matplotlib · Jupyter  
+**ML/AI:** Scikit-learn · Pandas · NumPy · Matplotlib · Jupyter · PyTorch · TensorFlow
 **Tools:** Git · GitHub Actions · VS Code  
 **Exploring:** LangChain · FAISS · Docker · AWS
 
@@ -33,12 +33,4 @@
 | [Bulldozer Price Prediction](https://github.com/Maverick-hsk/bulldozer-price-prediction) | Regression model for heavy equipment auction prices | Python, RandomForest |
 | [ML Fundamentals](https://github.com/Maverick-hsk/machine-learning-fundamentals) | Core ML concepts and algorithms from scratch | Python, Jupyter |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maverick-hsk&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-hsk&layout=compact&theme=default" height="150"/>
-</p>
 
