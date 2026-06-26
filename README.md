@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python · C++ · JavaScript  
-**ML/AI:** Scikit-learn · Pandas · NumPy · Matplotlib · Jupyter · PyTorch · TensorFlow
+**ML/AI:** Scikit-learn · Pandas · NumPy · Matplotlib · Jupyter · PyTorch · TensorFlow 
 **Tools:** Git · GitHub Actions · VS Code  
 **Exploring:** LangChain · FAISS · Docker · AWS
 
