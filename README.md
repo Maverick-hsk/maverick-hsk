@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himank Singh 👋</h1>
 
 <p align="center">
-  MTech Student (Batch 2026) · Machine Learning · RAG Systems · Cloud
+  MTech Student (Batch 2027) · Machine Learning · RAG Systems · Cloud
 </p>
 
 ---
